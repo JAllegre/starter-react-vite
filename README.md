@@ -1,1 +1,1 @@
-# starter-vite-react
+# Starter for Vite/React
